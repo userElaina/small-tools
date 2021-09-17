@@ -8,3 +8,7 @@
 #### battery_listener.py
 
 监控笔记本电量
+
+#### auto_click.py
+
+某工作岗位偷懒需求的定制软件
